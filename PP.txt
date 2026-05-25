@@ -1,0 +1,328 @@
+Privacy Policy
+Effective Date: 01/01/2025
+
+1. Introduction
+Welcome to [CORVIDAE] (“we,” “our,” or “us”). We are committed to protecting your privacy and ensuring that your personal data is handled responsibly. This Privacy Policy explains how we collect, use, and share information about you when you use our games and applications (the “Services”).
+
+2. Information We Collect
+We collect various types of information to provide and improve our Services. Below is an outline of the types of information we may collect, including those specific to Apple users, along with their definitions:
+
+A. Financial Information
+Purchase History: Information about your transactions within the app, including in-app purchases. Collected by the Appodeal SDK and some ad networks (AdColony, Ogury, UnityAds) if transmitted by the app.
+Other Financial Info: Additional financial information relevant to your use of the app.
+B. Location Information
+Precise Location: Detailed geographical location data that can identify your exact location (e.g., GPS coordinates). This is optional and collected by Smaato, MyTarget, and StartApp if location tracking is enabled.
+Coarse Location: General geographical location data that indicates a broader area (e.g., city or region). This is optional and collected by the Appodeal SDK and ad networks including AdMob, Smaato, AdColony, MyTarget, StartApp, and UnityAds if location tracking is enabled.
+Location Data
+Our app does not directly collect or use location data from your device. However, third-party services integrated into the app, such as AdMob, Appodeal, and its Ad Network partners may collect and use approximate location data for advertising purposes. This data helps AdMob provide more relevant ads to users.
+
+We do not have access to or control over the location data collected by AdMob, Appodeal, and its Ad Network partners. For more information on how AdMob handles location data and ensures compliance with relevant privacy laws, please review their:
+AdMob Privacy Policy
+Appodeal Privacy Policy
+Appodeal Partners Privacy Policy
+
+C. Customer Support Information
+Customer Support: Information collected when you interact with customer support services. This is collected by:
+AdColony: Only if you click on the AdChoices logo on AdColony advertising, visit the AdColony support website, or email their support team at support@adcolony.com. This information is not collected through the AdColony SDK embedded in the publisher app.
+Unity Ads: May collect this information if you submit a report of an ad creative.
+D. Device Identifiers
+Device ID: A unique identifier assigned to your device, which can be used to track and manage ad interactions. Collected by the Appodeal SDK and ad networks for advertising targeting.
+User ID: A unique identifier associated with your user profile within the app. Collected by AdColony and UnityAds.
+Device or Other IDs: Additional unique identifiers related to your device or other connected hardware.
+E. Usage Data
+Product Interaction: Data about your interactions with in-app products or features, including how you engage with them. Collected by AdMob, Smaato, AdColony, IronSource, StartApp, and UnityAds.
+Advertising Data: Information about your interactions with advertisements, including ad views and clicks. Used by the Appodeal SDK and ad networks for targeting and ad tracking.
+Crash Data: Information about app crashes and errors. Collected by AdMob, AdColony, and StartApp.
+Performance Data: Information related to the overall performance of the app, such as speed and responsiveness. Collected by AdMob, AdColony, IronSource, and UnityAds.
+Other Diagnostic Data: Additional data used to troubleshoot and diagnose app issues. Collected by StartApp.
+F. Personal Information
+User IDs: Unique identifiers associated with your profile within the app.
+Other Personal Info: Additional information such as your name or email address that you may provide within the app.
+G. App Info and Performance
+Crash Logs: Information about app crashes to help diagnose issues.
+Diagnostics: Data to improve app functionality and performance.
+Other App Performance Data: Metrics on how the app performs on your device.
+H. Files and Documents
+Files and Docs: Information or documents uploaded or created using the app.
+I. App Activity
+App Interactions: Information about how you interact with the app.
+In-App Search History: Details of searches performed within the app.
+Installed Apps: Information about other apps installed on your device.
+Other User-Generated Content: Content created by users within the app.
+Other Actions: Additional actions performed by users within the app.
+J. Other Data Types
+Technical Device Information: Information about your device, such as device type and operating system. Includes details about your mobile browser (e.g., Firefox, Safari, and Chrome).
+Other Device Information: Includes whether you are using a smartphone or tablet and related details.
+Network Information: Details about your network connection, such as network provider.
+Carrier User ID: A unique number allocated to you by your network provider.
+K. The Data We Collect about You
+We collect both personal and non-personal data when you use our Services. Personal data means any information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier of that natural person.
+#	Data Collected	Uses
+1	Google AID	
+Analytics, fraud prevention, security and compliance
+App functionality
+Advertising and marketing
+2	Android ID	
+Analytics, fraud prevention, security and compliance
+App functionality
+Advertising and marketing
+3	IDFA	
+Analytics, fraud prevention, security and compliance
+App functionality
+Advertising and marketing
+4	IDFV	
+Analytics, fraud prevention, security and compliance
+App functionality
+Advertising and marketing
+5	MAC	
+Analytics, fraud prevention, security and compliance
+App functionality
+Advertising and marketing
+6	IP address	
+Analytics, fraud prevention, security and compliance
+App functionality
+Advertising and marketing
+7	CPU	
+Game performance optimization
+8	Screen size	
+Game performance optimization
+9	Memory size	
+Game performance optimization
+10	Hard disk size	
+Game performance optimization
+11	Device manufacturer	
+Advertising and marketing
+12	Network Status	
+Game performance optimization
+13	Device Country	
+Advertising and marketing
+14	Device Language	
+Advertising and marketing
+15	Operating System	
+Game performance optimization
+16	Device Time Zone	
+Advertising and marketing
+17	Device Model	
+Game performance optimization
+Feature	Description
+android.hardware.screen.landscape	For games and applications requiring a landscape orientation.
+android.hardware.screen.portrait	For games and applications requiring a portrait orientation.
+android.hardware.sensor.barometer	To enhance immersive gaming experiences through pressure-based interactions.
+android.hardware.sensor.compass	For direction-based gaming mechanics and map navigation.
+android.hardware.sensor.gyroscope	For motion-based gameplay and enhanced user interactions.
+android.hardware.sensor.light	To adapt screen brightness dynamically for better gameplay visuals.
+android.hardware.sensor.proximity	To detect user presence and improve usability during gameplay.
+android.hardware.touchscreen	For touch-based user interactions.
+android.hardware.touchscreen.multitouch	For multitouch functionality in games requiring complex gestures.
+android.hardware.touchscreen.multitouch.distinct	For precise recognition of multiple touch points in gameplay.
+android.hardware.wifi	For seamless connectivity in online games and content delivery.
+Permission	Description
+android.permission.ACCESS_ADSERVICES_AD_ID	To manage and utilize ad identifiers for personalized advertising.
+android.permission.ACCESS_ADSERVICES_ATTRIBUTION	To attribute ad performance metrics and improve ad relevance.
+android.permission.ACCESS_ADSERVICES_TOPICS	To identify user interests and serve relevant ad content.
+android.permission.ACCESS_NETWORK_STATE	To monitor network status and enhance online gaming experiences.
+android.permission.ACCESS_WIFI_STATE	To assess Wi-Fi connectivity for optimized performance.
+android.permission.FOREGROUND_SERVICE	To run background services that support ongoing gaming or analytics tasks.
+android.permission.INTERNET	To enable access to online content, multiplayer features, and advertisements.
+android.permission.READ_EXTERNAL_STORAGE	To read user data or resources required for game functionality.
+android.permission.WAKE_LOCK	To prevent the device from sleeping during gameplay.
+android.permission.WRITE_EXTERNAL_STORAGE	To save game data and settings to external storage.
+com.android.vending.BILLING	To enable in-app purchases within games.
+com.android.vending.CHECK_LICENSE	To verify app licenses for legitimate usage.
+com.applovin.array.apphub.permission.BIND_APPHUB_SERVICE	To facilitate advertising services and integration.
+com.corvidaegames.agentx.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION	For gaming performance and analytics.
+com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE	To analyze app installs for advertising effectiveness.
+com.google.android.gms.permission.AD_ID	To access Google-provided ad identifiers for personalized ads.
+com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA	To integrate analytics and advertising with Huawei services.
+com.samsung.android.mapsagent.permission.READ_APP_INFO	To provide location-based gaming features and advertisements.
+3. How We Use Your Information
+We use the collected information to:
+
+Provide and enhance our Services.
+Customize your experience and deliver tailored advertisements.
+Analyze usage and performance of our Services.
+Ensure the security of our Services.
+4. Data Security
+We take data security seriously and implement appropriate measures to protect your information from unauthorized access, disclosure, alteration, and destruction. All data and information we collect are securely stored and used solely for the purposes of analytics and advertising, ensuring that your personal data is handled with the highest level of confidentiality and integrity.
+
+5. Third-Party Ad Networks
+We use Yodo1 and Appodeal for ad mediation, which may involve the use of various ad networks. These networks may collect and use your data as described in their respective privacy policies. Below is a list of partner networks and their privacy policy links:
+
+AD NETWORKS
+AcuityAds: Privacy Policy: https://privacy.acuityads.com/technology-privacy-policy.html | Opt-Out: https://optout.acuityplatform.com/Adserver/optout
+AdColony: Privacy Policy: https://www.adcolony.com/privacy-policy/
+Adikteev: Privacy Policy: https://www.adikteev.com/privacy-policy-app-users
+Admixer: Privacy Policy: https://admixer.com/privacy/
+AdMob: Privacy Policy:https://support.google.com/admob/answer/6128543 | Opt-Out: https://adssettings.google.com/authenticated
+AdRoll: Privacy Policy: https://www.nextroll.com/privacy | Opt-Out: https://app.adroll.com/optout#other
+Adview: Privacy Policy: http://www.adview.cn/web/overseas/policy/privacy
+Algorix: Privacy Policy: https://www.algorix.co/privacy-policy/
+Altamob: N/A
+Amadoad: N/A
+Amazon Mobile Ads: Privacy Policy: https://developer.amazon.com/support/legal/mobileads/terms-and-agreements | Opt-Out: https://www.amazon.com/b/?&node=5160028011
+Appgrowth: Privacy Policy: https://www.appgrowth.com/home/privacy-policy
+Applift: Privacy Policy: https://www.applift.com/privacy-policy
+Applovin: Privacy Policy: https://www.applovin.com/privacy
+Appnext: Privacy Policy: https://www.appnext.com/privacy-policy-oem-operators/
+Appreciate/Triapodi: Privacy Policy: https://appreciate.mobi/page.html#/privacy-terms | Opt-Out: https://appreciate.mobi/page.html#/appoffers-opt-out
+Apptv: Privacy Policy: https://www.apptv.com/privacy-policy
+Avazu: Privacy Policy: http://avazuinc.com/opt-out/
+Axonix: Privacy Policy: http://axonix.com/privacy-cookie-policy/
+Beeline: Privacy Policy: http://ui.rtb.beeline.ru/privacy.htm
+Bidease: Privacy Policy: https://www.bidease.com/privacy-policy
+Bidswitch: Privacy Policy: https://www.iponweb.com/policies-legal/bidswitch-privacy-policy/
+Bizzclick: Privacy Policy: https://bizzclick.com/privacy-policy
+Brave: Privacy Policy: http://thebrave.io/private-policy
+Bucksense: Privacy Policy: http://www.bucksense.com/ | Opt-Out: http://www.bucksense.com/
+Chance: Privacy Policy: http://www.chance-ad.com
+Chartboost: Privacy Policy: https://answers.chartboost.com/en-us/articles/200780269
+Clickky: Privacy Policy: https://clickky.biz/privacy/
+Criteo: Privacy Policy
+Crossinstall: Privacy Policy: https://www.crossinstall.com/privacy
+Edge 226: Privacy Policy: https://www.edge226.com/privacy-policy
+Engage: Privacy Policy: https://www.engagebdr.com/privacy-policy/
+Epom: Privacy Policy: https://epom.com/privacy-policy
+Facebook: Privacy Policy: https://developers.facebook.com/docs/audience-network/policy | Opt-Out: https://www.facebook.com/ads/preferences/edit/
+Flurry: Privacy Policy: https://developer.yahoo.com/flurry/legal-privacy/terms-service/flurry-publishers-network.html?guccounter=1 | Opt-Out: https://developer.yahoo.com/flurry/end-user-opt-out/?guccounter=1
+Fractional Media: Privacy Policy: https://www.fractionalmedia.com/privacy-policy
+Fyber: Privacy Policy: https://www.fyber.com/legal/privacy-policy/
+Gamoshi: Privacy Policy: https://www.gamoshi.com/privacy-policy
+Getloyal: Privacy Policy: http://getloyal.com/policy/#rec43159822 | Opt-Out: http://getloyal.com/opt-out
+GroundTruth: Privacy Policy: https://www.groundtruth.com/privacy-policy/
+Hybrid: Privacy Policy: https://hybrid.ai/privacy_policy
+Hyperadx: Privacy Policy: http://hyperadx.com/privacy_policy.html | Opt-Out: http://hyperadx.com/opt_out_policy.html
+Index Exchange: Privacy Policy: http://www.indexexchange.com/privacy/ | Opt-Out: http://optout.networkadvertising.org/?c=1#!/
+InMobi: Privacy Policy: https://www.inmobi.com/privacy-policy/ | Opt-Out: https://www.inmobi.com/page/opt-out/
+Inspiritum: N/A
+Ironsource: Privacy Policy: https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+Jampp: Privacy Policy: https://jampp.com/privacy-policy/
+Kayzen: Privacy Policy: https://kayzen.io/privacy-notice-product | Opt-Out: https://kayzen-programmatic.typeform.com/to/NpCVMH
+Kingsoft: Privacy Policy: http://ad.ksyun.com/
+Leadbolt: Privacy Policy: https://www.leadbolt.com/privacy/ | Opt-Out: https://www.leadbolt.com/privacy/
+Liftoff: Privacy Policy: https://liftoff.io/privacy-policy/
+LiquidM: Privacy Policy: https://liquidm.com/privacy-policy/ | Opt-Out: http://liquidm.com/optout/
+LoopMe: Privacy Policy: https://legal.loopme.com/privacy-center#contract-hyartvn1o | Opt-Out: https://legal.loopme.com/privacy-center#opt-out
+Manage.com: Privacy Policy: https://www.manage.com/privacy-policy/ | Opt-Out: https://www.manage.com/privacy-policy/
+Mars Media: Privacy Policy: https://mars.video/privacy_policy/
+Mintegral: Privacy Policy: https://www.mintegral.com/en/privacy/
+Mobavenue: Privacy Policy: https://www.mobavenue.com/privacy-policy/
+Mobfox: Privacy Policy: https://www.mobfox.com/privacy-policy/
+Mobvista: Privacy Policy https://www.mobvista.com/en/privacy/ | Opt-Out: http://www.nativex.com/privacy-policy/
+Moloco: Privacy Policy: https://www.molocoads.com/advertising-policy
+Mopub: Privacy Policy: https://www.mopub.com/legal/privacy/ | Opt-Out: https://www.mopub.com/optout/
+Mytarget: Privacy Policy: https://legal.my.com/us/mytarget/privacy/
+Ogury: Privacy Policy: http://www.ogury.com/privacy/
+OpenX: Privacy Policy: https://www.openx.com/legal/privacy-policy/
+Oxonux: N/A
+Persona.ly: Privacy Policy: http://persona.ly/privacy_policy | Opt-Out: http://persona.ly/privacy_policy
+Pubmatic: Privacy Policy: https://pubmatic.com/legal/privacy/ | Opt-Out: https://pubmatic.com/legal/opt-out/
+Pubnative: Privacy Policy: https://pubnative.net/privacy-policy/ | Opt-Out: https://pubnative.net/privacy-policy/
+Redmobi: Privacy Policy: http://redmobi.cn/
+Remerge: Privacy Policy: https://www.remerge.io/service-privacy-policy
+Rubicon: Privacy Policy: https://rubiconproject.com/privacy/
+Silvermob: Privacy Policy: https://silvermob.com/privacy
+Smaato: Privacy Policy: https://www.smaato.com/privacy/ | Opt-Out: https://www.smaato.com/privacy/#section4
+Smartyads: Privacy Policy: https://smartyads.com/privacy-policy
+Startapp: Privacy Policy: https://www.startapp.com/policy/privacy-policy/
+Tapjoy: Privacy Policy: https://www.tapjoy.com/legal/#privacy-policy | Opt-Out: https://www.tapjoy.com/legal/opt-out/
+Tappx: Privacy Policy: https://www.tappx.com/privacy-policy/
+Tencent: Privacy Policy: https://www.tencent.com/en-us/zc/privacypolicy.shtml
+UCFunnel: Privacy Policy: https://www.ucfunnel.com/privacy-policy
+Unity Ads: Privacy Policy: https://unity3d.com/legal/privacy-policy
+Vungle: Privacy Policy: https://vungle.com/privacy/ | Opt-Out: https://vungle.com/opt-out/
+WaardeX: Privacy Policy: https://waardex.com/privacy-policy/
+WoFhub: Privacy Policy: http://www.wofhub.com/privacy_policy.html
+Woobi: Privacy Policy: https://woobi.com/privacy/
+xAd: Privacy Policy: https://www.groundtruth.com/privacy-policy/
+Yabbi: Privacy Policy: https://yabbi.me/privacy-policies
+Yandex Mobile Ads: Privacy Policy: https://yandex.com/legal/mobileads_sdk_agreement/ | Opt-Out: https://yandex.com/legal/confidential/
+Yeahmobi: Privacy Policy: https://en.yeahmobi.com/html/privacypolicy/index.html
+Zeotap: Privacy Policy
+ZeroPark: Privacy Policy
+Zoomd: Privacy Policy
+Zplay: Privacy Policy: https://www.zplayads.com/en/privacy.html
+Zucks: Privacy Policy
+FRAUD MANAGEMENT TOOLS
+Pixelate: Privacy Policy: https://www.pixalate.com/privacypolicy/
+APP ANALYTICS
+App Annie: Privacy Policy: https://www.appannie.com/en/legal/privacy/
+6. GDPR Compliance
+If you are a resident of the European Economic Area (EEA), you have certain rights under the General Data Protection Regulation (GDPR). These include:
+
+Right to Access: You can request access to your personal data that we hold.
+Right to Rectification: You can request correction of inaccurate or incomplete data.
+Right to Erasure: You can request the deletion of your personal data when it is no longer necessary for the purposes for which it was collected, among other reasons.
+Right to Restrict Processing: You can request that we limit the processing of your personal data.
+Right to Data Portability: You can request a copy of your personal data in a structured, commonly used format and have the right to transmit it to another organization.
+Right to Object: You can object to the processing of your personal data under certain circumstances, including for direct marketing purposes.
+Right to Withdraw Consent: If we are processing your data based on your consent, you can withdraw your consent at any time.
+To exercise these rights, please contact us at avishinnovationsceo@gmail.com.
+
+7. CCPA Compliance
+If you are a California resident, the California Consumer Privacy Act (CCPA) provides you with the following rights:
+
+Right to Know: You can request information about the categories and specific pieces of personal data we collect about you, the purposes for which it is used, and the categories of third parties with whom we share it.
+Right to Delete: You can request the deletion of your personal data that we have collected, subject to certain exceptions.
+Right to Opt-Out: You can opt-out of the sale of your personal data to third parties. We do not sell your personal data, but if we do, you can exercise this right by contacting us.
+Right to Non-Discrimination: You will not be discriminated against for exercising your CCPA rights.
+Mandatory Verification: As required by CCPA we will need to verify your identity before processing your request. In order to verify your identity, you will be asked to log in to your account or (if you do not have an account) we will try to match the information you provided with the information we handle about you. In certain circumstances, we may decline the request, mainly where we are unable to verify your identity, for example, if you have requested us to delete your Personal Data. As required by CCPA we endeavor to respond to a verifiable request within 45 (forty-five) days of its receipt. If we require more time (up to 90 (ninety) days), we will inform you of the reason and extension period in writing. We will deliver our written response by e-mail.
+To exercise your CCPA rights, please contact us at avishinnovationsceo@gmail.com.
+
+8. Your Rights
+You have the right to request the deletion of your information as per applicable country regulations or the California Consumer Privacy Act (CCPA). To exercise these rights or if you need any assistance, please contact us at avishinnovationsceo@gmail.com.
+
+9. Opt-Out Rights
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+10. Data Retention and Data Deletion Policy
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at [avishinnovationsceo@gmail.com] and they will respond in a reasonable time. Or visit User Data Deletion Instructions for more info.
+
+11. Age Limits
+We do not knowingly collect or solicit Personal Data from individuals under the age of 13 (or 16 in the European Economic Area) nor do we knowingly permit such individuals to utilize our Services. Should we become aware that we have inadvertently collected Personal Data from a child under the age of 13 (or 16, as applicable), we will promptly delete such information. If you suspect that we may have Personal Data pertaining to a child under the age of 13 (or 16, as applicable), please submit a request for deletion and restriction of processing to the email address provided in the contact details.
+
+12. How Long We Store Your Data
+We generally store your data for as long as your account is in existence or as needed to provide the Services. However, specific periods can vary based on the context of the processing we perform and our legal obligations. For example, we may need to retain some of your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations, or where we have a legitimate interest in doing so.
+
+When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we will either remove it from our systems or depersonalize it so that we cannot identify you.
+
+13. WHAT RIGHTS YOU HAVE
+You have certain rights in relation to personal data. If you have any requests related to your rights, please follow the instructions in the section "HOW YOU CAN CONTACT US" below.
+
+(a) Opt-out of targeted advertising
+
+You can opt-out of interest-based advertising on mobile applications by checking the privacy settings of your Android or iOS device.
+
+Method 1 (depending on your local privacy laws) - App Settings:
+
+1. Open app Settings
+2. Select About/About Game
+3. Select Privacy Setting
+4. Select Advertising Preferences and disable Personalised Advertising, then click Save & Exit
+
+Method 2 - Device Settings:
+
+For iOS 14 and later:
+
+1. Open device Settings
+2. Select Privacy
+3. Select Tracking and disable "Allow Apps to Request to Track"
+
+For iOS 13 and older:
+
+1. Open device Settings
+2. Select Privacy
+3. Select Advertising and enable "Limit Ad Tracking"
+
+For Android:
+
+1. Open device Settings
+2. Select Google
+3. Select Ads and enable "Opt out of Ads Personalization"
+
+When you choose to opt-out, advertising networks will consider this choice as a withdrawal of consent to a personalized advertisement experience, and they will show contextual advertisements instead of personalized advertisements based on your interests.
+
+14. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to review this Privacy Policy periodically to stay informed about our practices.
+
+15. HOW YOU CAN CONTACT US
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at avishinnovationsceo@gmail.com. We are here to help and address any requests or inquiries you may have.

@@ -1,0 +1,57 @@
+User Data Deletion Instructions
+We value your privacy and are committed to protecting the information you share with us. You have the right to request the deletion of the information we have collected from you, as well as to direct our service providers to do the same. To facilitate this process, we have outlined the steps and conditions below.
+
+Conditions for Deletion
+Please be aware that there are certain exceptions where we may retain or use your information even after a deletion request. These exceptions include, but are not limited to:
+
+Completion of Transactions: When the information is necessary to complete a transaction you have initiated with us.
+Provision of Goods or Services: To continue providing you with the goods or services you have requested.
+Contractual Obligations: To fulfill any contractual obligations between us and you.
+Security and Legal Compliance: To protect your security, prosecute those responsible for breaches, and comply with legal obligations.
+System Maintenance: To address and fix any bugs or issues within our systems.
+Free Speech Rights: To protect the free speech rights of you or other users.
+Compliance with Privacy Laws: To comply with applicable privacy laws, including the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et seq.).
+Scientific, Historical, or Statistical Research: To engage in public or peer-reviewed research that adheres to relevant ethics and privacy laws.
+Other Internal Uses: To make other internal and lawful uses of your information that are compatible with the context in which it was provided.
+How to Request Data Deletion
+If you wish to request the deletion of your information, please follow these steps:
+
+Email Us: Send an email requesting deletion of your information. You can use the “Contact Us” form in the application that you use, located in the application settings dialog. If this form is not available, you can email us directly at avishinnovationsceo@gmail.com.
+Review Time: We will consider and address your request within 72 hours from the time of receipt.
+If you have any questions or need further assistance, please do not hesitate to contact us using the information provided above.
+
+WHAT RIGHTS YOU HAVE
+You have certain rights in relation to personal data. If you have any requests related to your rights, you can email us directly at avishinnovationsceo@gmail.com.
+
+(a) Opt-out of targeted advertising
+
+You can opt-out of interest-based advertising on mobile applications by checking the privacy settings of your Android or iOS device.
+
+Method 1 (depending on your local privacy laws) - App Settings:
+
+1. Open app Settings
+2. Select About/About Game
+3. Select Privacy Setting
+4. Select Advertising Preferences and disable Personalised Advertising, then click Save & Exit
+
+Method 2 - Device Settings:
+
+For iOS 14 and later:
+
+1. Open device Settings
+2. Select Privacy
+3. Select Tracking and disable "Allow Apps to Request to Track"
+
+For iOS 13 and older:
+
+1. Open device Settings
+2. Select Privacy
+3. Select Advertising and enable "Limit Ad Tracking"
+
+For Android:
+
+1. Open device Settings
+2. Select Google
+3. Select Ads and enable "Opt out of Ads Personalization"
+
+When you choose to opt-out, advertising networks will consider this choice as a withdrawal of consent to a personalized advertisement experience, and they will show contextual advertisements instead of personalized advertisements based on your interests.
